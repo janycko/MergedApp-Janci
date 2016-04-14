@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\JANICEK\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.5.2\91731b8f5868a3e8a8a773f29b8d06b5c358f5bb\firebase-client-jvm-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
+        <dex dex="C:\Users\JANICEK\Desktop\MergedApp-master\app\build\intermediates\pre-dexed\debug\firebase-client-jvm-2.5.2_55d3491a7b6b80e6c2e1065c2dce14701352c614.jar" />
+    </item>
+    <item
+        jar="C:\Users\JANICEK\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\JANICEK\Desktop\MergedApp-master\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_fac1456fe7d6e3a7768f6a8c8102a033137c15d9.jar" />
+    </item>
+    <item
+        jar="C:\Users\JANICEK\Desktop\MergedApp-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a6af5beedc2e8c946abc3771525e2fed77439309">
+        <dex dex="C:\Users\JANICEK\Desktop\MergedApp-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0-alpha1_a0a3f7f17c128b447d665fbac3f4c7e2885e547c.jar" />
+    </item>
+    <item
+        jar="C:\Users\JANICEK\Desktop\MergedApp-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="C:\Users\JANICEK\Desktop\MergedApp-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0-alpha1_d1409d8d192af43ef6da85baa3d8c92e3a1a02f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\JANICEK\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="C:\Users\JANICEK\Desktop\MergedApp-master\app\build\intermediates\pre-dexed\debug\tubesock-0.0.12_31c8f68ebbe0f8b4f46ebc4b697523215cd54ee4.jar" />
+    </item>
+    <item
+        jar="C:\Users\JANICEK\Desktop\MergedApp-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9684c95278dc45a142d7de3db9e7e39aa520e1e0">
+        <dex dex="C:\Users\JANICEK\Desktop\MergedApp-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0-alpha1_fa3a43716dfafd1e7d92e11791291fb9202a204b.jar" />
+    </item>
+    <item
+        jar="C:\Users\JANICEK\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\JANICEK\Desktop\MergedApp-master\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_085c49c247cb35877f9ec1675cbc8f92dc1cc52e.jar" />
+    </item>
+    <item
+        jar="C:\Users\JANICEK\Desktop\MergedApp-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ed88e1f0c8fbf66e1da918545f0a6790f893bceb">
+        <dex dex="C:\Users\JANICEK\Desktop\MergedApp-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0-alpha1_d655a2613ee6ad80d1d8c8e6b34b4a6fec2027c3.jar" />
+    </item>
+    <item
+        jar="C:\Users\JANICEK\Desktop\MergedApp-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\libs\internal_impl-24.0.0-alpha1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="C:\Users\JANICEK\Desktop\MergedApp-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-alpha1_58be7a91e49ddf43ee59e5c1850ca3663f17c5f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\JANICEK\Desktop\MergedApp-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4514ca16832051566c4239e266b199cf07c2d360">
+        <dex dex="C:\Users\JANICEK\Desktop\MergedApp-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_8475c0b0e4512fbbef375e4565cdfd5f42e67f3a.jar" />
+    </item>
+    <item
+        jar="C:\Users\JANICEK\Desktop\MergedApp-master\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.11.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="86da97c30f50a67ddabe2cf7040713ad17153fce">
+        <dex dex="C:\Users\JANICEK\Desktop\MergedApp-master\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-android-sdk-4.11.0_1698a98321bca32c2051df1bbf7f5db489a576db.jar" />
+    </item>
+    <item
+        jar="C:\Users\JANICEK\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\JANICEK\Desktop\MergedApp-master\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2_8e1f79736abc90e61707a8a22248141b7d82faeb.jar" />
+    </item>
+    <item
+        jar="C:\Users\JANICEK\Desktop\MergedApp-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fc7b9fb1d918f4b6dd001f7f2782419e72868c6a">
+        <dex dex="C:\Users\JANICEK\Desktop\MergedApp-master\app\build\intermediates\pre-dexed\debug\instant-run_a5d9fad40b06005288e779309d3e8b8e8a770834.jar" />
+    </item>
+    <item
+        jar="C:\Users\JANICEK\Desktop\MergedApp-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="C:\Users\JANICEK\Desktop\MergedApp-master\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.2.1_1771f260e315c88bdae1c3a73517dd6f6019801a.jar" />
+    </item>
+    <item
+        jar="C:\Users\JANICEK\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha1\support-annotations-24.0.0-alpha1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="C:\Users\JANICEK\Desktop\MergedApp-master\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-alpha1_fbbd474c47a5c21dd3facd9f98790f713e35662d.jar" />
+    </item>
+    <item
+        jar="C:\Users\JANICEK\Desktop\MergedApp-master\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="cd688796dadc28f7f95db229cbfdaf91ebbb0d61">
+        <dex dex="C:\Users\JANICEK\Desktop\MergedApp-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.0.0-alpha1_0a6b8a89c431fbb1af0cac3b667be6d9ec08ca61.jar" />
+    </item>
+    <item
+        jar="C:\Users\JANICEK\Desktop\MergedApp-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1f1c7067e22acf05bddbca9f94422050cd848a86">
+        <dex dex="C:\Users\JANICEK\Desktop\MergedApp-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.0.0-alpha1_5c946182047bfc24440212ca2febfa73025fab4e.jar" />
+    </item>
+    <item
+        jar="C:\Users\JANICEK\Desktop\MergedApp-master\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui\0.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5f34a8aeb0eaaa2d69752d56102a8c808117058e">
+        <dex dex="C:\Users\JANICEK\Desktop\MergedApp-master\app\build\intermediates\pre-dexed\debug\com.firebaseui-firebase-ui-0.3.1_28beec308f3aee3c6505d9e2476aa7df7535634c.jar" />
+    </item>
+    <item
+        jar="C:\Users\JANICEK\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\JANICEK\Desktop\MergedApp-master\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.2_b6f4c9371bb45330de3fedcf3073a531558ee487.jar" />
+    </item>
+    <item
+        jar="C:\Users\JANICEK\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.5.2\f19f10d6276aa0b380e2d05d2ab3272d693a5433\firebase-client-android-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f19f10d6276aa0b380e2d05d2ab3272d693a5433">
+        <dex dex="C:\Users\JANICEK\Desktop\MergedApp-master\app\build\intermediates\pre-dexed\debug\firebase-client-android-2.5.2_497838f755fc65acecece51af17da02c44cbcffe.jar" />
+    </item>
+    <item
+        jar="C:\Users\JANICEK\Desktop\MergedApp-master\app\build\intermediates\exploded-aar\com.android.support\customtabs\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0e5a66a941515d873a34065fe44fbba6ef422a1b">
+        <dex dex="C:\Users\JANICEK\Desktop\MergedApp-master\app\build\intermediates\pre-dexed\debug\com.android.support-customtabs-23.2.1_bd01160dd4bb58c93ca962659a3f6267df5d2de2.jar" />
+    </item>
+    <item
+        jar="C:\Users\JANICEK\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\JANICEK\Desktop\MergedApp-master\app\build\intermediates\pre-dexed\debug\jackson-databind-2.2.2_d8922fd79b064ebff6ae33f208ebb4cacfadcc74.jar" />
+    </item>
+
+</items>
